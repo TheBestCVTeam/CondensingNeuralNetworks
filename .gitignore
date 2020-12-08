@@ -1,0 +1,10 @@
+*~
+*.#*
+*#*#
+*.DS_Store
+*.pyc
+*.pkl
+.idea/
+/results/*
+/log/*
+/output/*
